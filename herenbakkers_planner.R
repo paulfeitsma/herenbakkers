@@ -1,4 +1,4 @@
-# Geheugen leeg maken
+# Geheugen leeg maken!
 rm(list=ls())
 
 # Benodigde packages
